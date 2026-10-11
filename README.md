@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Document Question-Answering Assistant
 
 A Python-based application that enables users to ask questions about PDF and TXT documents using document retrieval and a locally running Large Language Model (LLM).
@@ -32,3 +33,7 @@ Python, Streamlit, scikit-learn, TF-IDF, PyPDF, Ollama, Qwen 2.5 3B, unittest
 - Improved handling of unsupported questions
 - Expanded automated tests
 - Deployment and performance optimisation
+=======
+# Ai-document-assistant
+An AI-powered document question-answering assistant using Retrieval-Augmented Generation (RAG) to extract information from documents and answer user queries with relevant context. Built with Python, embeddings, vector search, and Large Language Models (LLMs) to enable intelligent document analysis and context-aware responses.
+
